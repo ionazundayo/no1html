@@ -1,0 +1,521 @@
+.product-top {
+    width: 100%;
+    height: 700px;
+    position: relative;
+   
+}
+
+.product-top a{
+    text-decoration: none;
+}
+
+
+.p-img img{
+   width: 35%;
+   top: 0;
+    left: 2%;
+    position: fixed;
+}
+
+
+
+.p-introdution {
+    width: 32%;
+    display: inline-block;
+    position: absolute;
+    left: 39%;
+    
+}
+
+.p-introdution a:hover{
+    text-decoration: underline;
+
+}
+
+.p-review {
+    border-bottom: 1px solid #CCCCCC;
+}
+.p-review h1 {
+    font-size: 20px;
+    color: ＃black;
+    font-weight: normal;
+    line-height: 2;
+}
+
+
+.p-review a {
+    color: #336666;
+    font-size: 15px;
+    line-height: 1;
+    display: inline-block;
+}
+
+
+
+.p-review p {
+    display: inline-block;
+    line-height: 1;
+    
+}
+
+.p-review-img {
+    width: 100px;
+    padding-right: 20px;
+    vertical-align: middle;
+    
+}
+
+
+tr {
+    vertical-align: baseline;
+
+}
+
+th {
+    width: 30%;
+    font-size: 15px;
+    font-weight: normal;
+    color: #666666;
+    text-align: right; 
+      
+}
+
+
+td {
+    width: 70%;
+    padding-left: 5px;
+}
+
+td h2,img,p {
+    display: inline-block;
+}
+
+
+
+.product-top h2 {
+    font-size: 19px;
+    color: #AA0000;
+    display: inline-block;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    
+}
+
+.amazon-logo {
+    width: 85px;
+    height: 35px;
+    display: inline-block;
+    border-style: none;
+    vertical-align: middle;
+    margin-top: 0px;
+}
+
+
+.p-info p {
+    font-size: 15px;
+    display: inline-block;
+    margin: 0 0 13px 0;
+    
+}
+
+.p-info a{
+    color:#336666;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+
+
+.product-top h3 {
+    font-size: 14px;
+    color: #AA0000;
+    font-weight: normal;
+    margin: 0 0 0 0;
+    display: inline-block;
+    
+}
+
+.text a,span{
+    text-align: left;
+}
+
+.text a{
+    color: #336666;
+    font-size: 15px;
+    line-height: 1.5;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.blue {
+    font-size: 18px;
+    color: #0000AA;
+}
+
+.red {
+    color: #AA0000;
+}
+
+.sub-text {
+    margin-top: 0px;
+}
+
+.sub-text a {
+    color: #336666;
+    font-size: 15px;
+    line-height: 15px;
+    display: inline-block;
+   
+}
+.sub-text p {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.color-img {
+    padding-left: 0;
+}
+
+
+.color-img li {
+    list-style: none;
+    border: 1px solid #CCCCCC;
+    margin: 0 2px 4px 0;
+    display: inline-block;
+}
+
+li img {
+    vertical-align: top;
+}
+
+li img:hover {
+    border: 1px solid #cccccc;
+}
+
+
+.color-name {
+    display: inline-block;
+    margin-right: 5px;
+    font-weight: bold;
+
+}
+
+.p-detail {
+    margin-top: 10px;
+    float: left;
+    
+}
+
+.p-detail-a {
+    display: table;
+    padding-left: 15px;
+}
+
+.p-detail li {
+    font-size: 15px;
+}
+
+.p-detail span {
+    font-size: 15px;
+    color: #CC6600;
+
+}
+
+.p-detail a {
+    color: #336666;
+    font-size: 15px;
+}
+
+.container {
+    width: 218px;
+    position: absolute;
+    left: 75%;
+    top: 0;
+    display: inline-block;
+}
+
+.container-a {
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+}
+
+.container-a a{
+    color: #336666;
+}
+
+.p-text h3{
+    display: inline-block;
+    font-size: 14px;
+    color: #AA0000;
+    
+    
+}
+
+
+.p-text p {
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: left;
+    display: inline-block;
+    
+    
+}
+
+.p-text a {
+    color: #336666;
+    font-size: 15px;
+    line-height: 1;
+    display: inline-block;
+    padding-top: 0;
+    
+}
+
+.p-text a:hover{
+    text-decoration: underline;
+
+}
+
+.p-text span{
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 1;
+    text-align: left;
+    margin-top: 10px;
+    white-space: nowrap;
+}
+
+.green {
+    font-size: 18px;
+    color: rgb(56, 139, 56);
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.zaiko a,p{
+    display: inline;
+    font-size: 12px;
+   
+}
+
+.zaiko a:hover{
+    text-decoration: underline;
+
+}
+
+.quantity {
+    padding: 10px 0 20px 0;
+    
+}
+
+.quantity p {
+    font-size: 15px;
+}
+
+input,number {
+    width: 30px;
+    display: inline-block;
+}
+
+.container-a .fas {
+    margin-left: 3px;
+    float: left;
+    font-size: 18px;
+
+}
+
+
+
+.btn {
+    border: 0.1px solid rgb(73, 70, 70, 0.5);
+    border-radius: 4px;
+    width:100%;
+    height:20px;
+    font-size: 13px;
+    color: black !important;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 6px;
+    padding: 6px 0 6px 0;
+    line-height: 1.5;
+}
+
+
+.fa-cart-plus {
+    display: inline-block;
+    margin-bottom: 2px;
+}
+
+
+
+.cart {
+    background: -moz-linear-gradient(top, rgb(250, 224, 154) 20%, rgb(230, 191, 86) 80%);
+    background: -webkit-linear-gradient(top, rgb(250, 224, 154) 20%, rgb(230, 191, 86) 80%);
+    background: linear-gradient(to bottom, rgb(250, 224, 154) 20%, rgb(230, 191, 86) 80%);
+}
+
+.cart:hover {
+    background: -moz-linear-gradient(bottom, rgb(230, 191, 86) 0%, rgba(233, 177, 22, 0.6) 100%);
+    background: -webkit-linear-gradient(bottom, rgb(230, 191, 86) 0%, rgb(233, 177, 22, 0.6) 100%);
+    background: linear-gradient(to top, #e6bf56 0%, rgb(233, 177, 22, 0.6) 100%);
+}
+
+.buy {
+    background: -moz-linear-gradient(top, rgb(238, 196, 142) 20%, rgb(223, 149, 53) 80%);
+    background: -webkit-linear-gradient(top, rgb(238, 196, 142) 20%, rgb(223, 149, 53) 80%);
+    background: linear-gradient(to bottom, rgb(238, 196, 142) 20%, rgb(223, 149, 53) 80%);
+}
+
+
+.buy:hover {
+    background: -moz-linear-gradient(bottom, rgb(223, 149, 53) 0%, rgba(235, 151, 43, 0.719) 100%);
+    background: -webkit-linear-gradient(bottom, rgb(223, 149, 53) 0%, rgba(235, 151, 43, 0.719) 100%);
+    background: linear-gradient(to top, gb(223, 149, 53) 0%, rgba(235, 151, 43, 0.719) 100%);
+
+}
+
+.fa-caret-right {
+    padding-left: 8px;
+}
+
+.fa-lock {
+    color: gray !important;
+    position: relative;
+    top: 80%;
+    left: 1%;
+    display: inline-block;
+    margin-right: 15px;
+    white-space: nowrap;
+}
+
+.secure {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.secure a{
+    font-size: 14px;
+}
+
+.secure a:hover{
+    text-decoration: underline;
+}
+
+.maker p,span,a{
+    font-size: 12px;
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+}   
+
+.maker a:hover{
+    text-decoration: underline;
+
+}
+
+.maker p {
+    color: rgb(146, 139, 139);
+    display: inline-block;
+    margin: 0 30px 0 20px;
+}
+
+.gift {
+    margin-top: 10px;
+}
+
+.gift p{
+    font-size: 14px;
+    text-align: left;
+}
+
+.container-b {
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 10px;
+}
+
+.container-b p{
+    font-size: 15px;;
+}
+
+.share {
+    width: 100%;
+    margin-top: 16px;
+}
+
+.share p:hover{
+    text-decoration: underline;
+}
+
+.share p {
+    font-size: 14px;
+    color: #336666;
+    display: inline-block;
+    margin-left: 16px;
+}
+
+.share .fas, .share .fab {
+   font-size: 25px;
+   margin-left: 5px;
+}
+
+.fa-envelope-square {
+    color: gray;
+}
+
+.fa-facebook-square {
+    color: rgb(43, 64, 184);
+}
+
+.fa-twitter-square {
+    color: rgb(35, 160, 233);
+}
+
+.fa-line {
+    color: rgb(68, 199, 28);
+}
+
+.sell {
+    width: 100%;
+    text-align: center;
+    padding-left: 20px;
+}
+.putup {
+    color: black;
+    background: -moz-linear-gradient(top, rgb(242, 246, 247), rgb(201, 205, 206));
+    background: -webkit-linear-gradient(top, rgb(242, 246, 247) 20%, rgb(201, 205, 206) 80%);
+    background: linear-gradient(to bottom, rgb(242, 246, 247) 20%, rgb(201, 205, 206) 80%);
+}
+
+.putup:hover {
+    background: -moz-linear-gradient(bottom, rgb(201, 205, 206) 0%, rgba(179, 182, 184, 0.2) 100%);
+    background: -webkit-linear-gradient(bottom, rgb(201, 205, 206) 0%, rgba(179, 182, 184, 0.2) 100%);
+    background: linear-gradient(to top, rgb(201, 205, 206) 0%, rgba(179, 182, 184, 0.2) 100%);
+
+}
+
+@media (max-width: 1000px ){
+    .product-top {
+        width: 1000px;
+    }
+    .p-img img {
+        width: 350px;
+        
+    }
+    
+    .p-introdution {
+        width: 319px;
+    }
+
+    .container {
+        
+    }
+}
+
+
